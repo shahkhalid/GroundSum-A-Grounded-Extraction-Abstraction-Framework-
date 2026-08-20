@@ -48,9 +48,6 @@ hallucination_mitigation_nlp/
 ├── main.py                  ← Single entry point; orchestrates the complete pipeline
 ├── requirements.txt         ← Python dependencies
 ├── README.md                ← Project documentation
-├── images/                  ← Architecture and workflow figures used in the README
-│   ├── architecture_approach.png
-│   └── abstractive_pipeline.png
 └── src/
     ├── __init__.py
     ├── utils.py             ← Configuration, logging, path helpers, and I/O utilities
