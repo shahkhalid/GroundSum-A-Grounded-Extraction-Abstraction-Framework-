@@ -44,7 +44,7 @@ The proposed framework consists of a two-stage summarization pipeline. A custom 
 ## Repository Structure
 
 ```
-hallucination_mitigation_nlp/
+GroundSum: A Grounded Extraction–Abstraction Framework/
 ├── main.py                  ← Single entry point; orchestrates the complete pipeline
 ├── requirements.txt         ← Python dependencies
 ├── README.md                ← Project documentation
